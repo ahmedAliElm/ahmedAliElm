@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a multiplatform library app using Spring Boot, PostgreSQL, Flutter, Angular and Kotlin<br>🌱 I'm looking to collaborate on mobile app projects as well as web app projects<br>💬 I'm currently learning CI/CD, Docker, Kubernetes and Angular
+🔭 I'm currently working on a multiplatform library app using Spring Boot, PostgreSQL, Flutter and Angular<br>🌱 I'm looking to collaborate on mobile app projects as well as web app projects<br>💬 I'm currently learning CI/CD, Docker, Kubernetes and Angular
 
 
 ## 🌐 Socials:
